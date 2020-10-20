@@ -1,0 +1,77 @@
+body {
+  background-color: #339966;
+}
+
+h1 {
+  color: #660066;
+  margin-left: 20px;
+}
+
+h2 {
+  color:#993399;
+  margin-left: 25px;
+}
+
+h3 {
+  color:#cc0099;
+  margin-left: 25px;
+}
+
+p {
+  color:#ff9900;
+  margin-left: 25px;
+}
+
+p2 {
+  color:#804d00;
+  margin-left: 25px;
+}
+
+#Coraline {
+  color:#ff0000;
+  padding: 25px;
+  background: #0066ff;
+  width: 150px;
+}
+
+#Movies {
+  color:#336600;
+  padding: 15px;
+  background: #ffff00;
+  width: 150px;
+}
+
+#grad1 {
+  height: 200px;
+  background-color: red; /* For browsers that do not support gradients */
+  background-image: linear-gradient(red, yellow);
+}
+
+
+#square1 {
+  width: 100px;
+  height: 100px;
+  background: red;
+  transition: width 2s, height 2s, transform 2s;
+}
+
+#square1:hover {
+  width: 300px;
+  height: 300px;
+  transform: rotate(180deg);
+}
+
+#Line {
+  color:#336600;
+  margin-left: 60px;
+  padding: 30px;
+  background: #ff99cc;
+  width: 150px;
+}
+
+
+.Helloh {
+  color: #003300;
+  font-size: 35pt;
+  text-shadow: 2px 2px 5px red;
+}
